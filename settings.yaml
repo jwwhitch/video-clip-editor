@@ -1,0 +1,38 @@
+compression: slow
+threads: 8
+vcodec: libx264
+fps: 30
+clip_time: 12.0
+load_title: E:\FootballHighlights\CFA-Escola-vs-South Slammers.mp4
+save_title: E:\FootballHighlights\CFA-Escola-vs-South Slammers-clip.mp4
+save_path: clips
+raw_times:
+- '1017'
+- '1235'
+- '1542'
+- '1843'
+- '1851'
+- '1907'
+- '1937'
+- '2133'
+- '2214'
+- '2221'
+- '2235'
+- '2414'
+- '2712'
+- '3150'
+- '3514'
+- '3520'
+- '3820'
+- '4030'
+- '4326'
+- '4610'
+- '4754'
+- '5139'
+- '5401'
+- '5407'
+- '5407'
+- '10004'
+- '10108'
+- '10728'
+- '11035'
